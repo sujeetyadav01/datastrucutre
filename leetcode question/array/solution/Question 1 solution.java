@@ -38,6 +38,7 @@ class Solution \{\
             double res;\
             res=val/2;\
             // System.out.println(arr3[index-1]);\
+            // System.out.println(arr3[index]);\
             // System.out.println(res);\
             return res;\
         \}\
